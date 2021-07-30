@@ -1,5 +1,7 @@
 mod traffic_light;
+mod sum;
 
 fn main() {
-    traffic_light::run();
+  traffic_light::run();
+  sum::run();
 }
